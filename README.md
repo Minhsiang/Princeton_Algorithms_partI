@@ -10,3 +10,4 @@ week3: [Collinear](http://coursera.cs.princeton.edu/algs4/assignments/collinear.
 week4: [8 Puzzle](http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html)
 ----
 week5: [Kd-Trees](http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html)
+----
